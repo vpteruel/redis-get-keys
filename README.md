@@ -7,5 +7,5 @@ $ podman-compose up
 ## run app
 
 ```
-$ dotn run
+$ dotnet run
 ```
